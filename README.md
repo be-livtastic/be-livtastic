@@ -2,7 +2,7 @@
 
 <b>Biotechnology Postgraduate | Bioinformatics & Data Science Explorer | Science Communicator</b>
 
-I’m a motivated and articulate Biotechnology postgraduate with experience spanning **laboratory research, data analysis, science communication, and project coordination**. Curiosity is my driving force. Through my academic and professional journey, I’m deepening my expertise at the **intersection of biotechnology, data, and communication** to explore how innovation can bridge global **health, education, and sustainability challenges**.
+I’m a motivated and articulate Biotechnology postgraduate with experience spanning **laboratory research, data analysis, science communication, and project coordination**. Curiosity is my driving force. Through my academic and professional journey, I’m deepening my expertise at the **intersection of biotechnology, bioinformatics, data, and communication**.
 
 My background allows me to move comfortably between:
 - 🧬 Biological research  
