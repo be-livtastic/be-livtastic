@@ -104,7 +104,7 @@ If you care about impact, clarity, and ethical innovation — let’s build some
 <h2>📫 Let’s Connect</h2>
 
 - 💼 LinkedIn: <a href="http://linkedin.com/in/olivia-williams-online">Olivia Williams</a>  
-- 📧 Email: williams.olivia8802@gmail.com  
+- 📧 Email: inbox@oliviawilliams.anonaddy.com  
 - 🌐 Portfolio / Linktree: https://linktr.ee/OliviaWilliams  
 
 <i>Curiosity fuels discovery. Communication turns it into impact.</i>  
