@@ -10,6 +10,19 @@ My background allows me to move comfortably between:
 - 🗣️ Clear, people-centred communication  
 
 ---
+## Selected repositories
+
+### Bioinformatics & Genomics
+- [`data-science-for-life-sci`](https://github.com/be-livtastic/data-science-for-life-sci) — Statistical analysis in R using real biological datasets: data cleaning, hypothesis testing, and visualisation with ggplot2
+- [`tidyverse_biodata`](https://github.com/be-livtastic/tidyverse_biodata) — Gene expression data wrangling and exploratory analysis using tidyverse workflows
+- [`simple-bioinformatics-pipeline`](https://github.com/be-livtastic/simple-bioinformatics-pipeline) — End-to-end bioinformatics pipeline practice in R
+- [`whole_genome_denovo`](https://github.com/be-livtastic/whole_genome_denovo) — De novo whole genome assembly workflow (shell-based)
+
+### Forked / Reference
+- [`genomics-analysis-parabricks-codonfm`](https://github.com/be-livtastic/genomics-analysis-parabricks-codonfm) — GPU-accelerated genomics analysis workflows (Clara Parabricks)
+- [`bioinfokit`](https://github.com/be-livtastic/bioinfokit) — Bioinformatics data analysis and visualisation toolkit (Python)
+
+---
 ## Technical skills
 
 **Bioinformatics & Data Analysis**
@@ -52,18 +65,6 @@ My background allows me to move comfortably between:
  Microbiome-ART interactions using bioinformatic and experimental approaches
 
 ---
-
-## Selected repositories
-
-### Bioinformatics & Genomics
-- [`data-science-for-life-sci`](https://github.com/be-livtastic/data-science-for-life-sci) — Statistical analysis in R using real biological datasets: data cleaning, hypothesis testing, and visualisation with ggplot2
-- [`tidyverse_biodata`](https://github.com/be-livtastic/tidyverse_biodata) — Gene expression data wrangling and exploratory analysis using tidyverse workflows
-- [`simple-bioinformatics-pipeline`](https://github.com/be-livtastic/simple-bioinformatics-pipeline) — End-to-end bioinformatics pipeline practice in R
-- [`whole_genome_denovo`](https://github.com/be-livtastic/whole_genome_denovo) — De novo whole genome assembly workflow (shell-based)
-
-### Forked / Reference
-- [`genomics-analysis-parabricks-codonfm`](https://github.com/be-livtastic/genomics-analysis-parabricks-codonfm) — GPU-accelerated genomics analysis workflows (Clara Parabricks)
-- [`bioinfokit`](https://github.com/be-livtastic/bioinfokit) — Bioinformatics data analysis and visualisation toolkit (Python)
 
 ## Education
 
