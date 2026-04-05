@@ -1,8 +1,8 @@
 <h1>Hi, I'm Olivia Williams 👋🏽</h1>
 
-<b>Biotechnology Postgraduate | Bioinformatics & Data Science Explorer | Science Communicator</b>
+<b>Biotechnology Research | Bioinformatics & Data Science | Science Communicator</b>
 
-I’m a motivated and articulate Biotechnology postgraduate with experience spanning **laboratory research, data analysis, science communication, and project coordination**. Curiosity is my driving force. Through my academic and professional journey, I’m deepening my expertise at the **intersection of biotechnology, bioinformatics, data, and communication**.
+MSc Biotechnology candidate at the University of Chester (Commonwealth Shared Scholar), with a BSc in Biotechnology from the University of the West Indies. Building computational skills to bridge wet lab biology and data-driven analysis — with a focus on microbiome characterisation, amplicon sequencing pipelines, and health-relevant genomics.
 
 My background allows me to move comfortably between:
 - 🧬 Biological research  
@@ -10,6 +10,23 @@ My background allows me to move comfortably between:
 - 🗣️ Clear, people-centred communication  
 
 ---
+## Technical skills
+
+**Bioinformatics & Data Analysis**
+- R (tidyverse, ggplot2, dplyr, plotly) — statistical analysis and visualisation of biological datasets
+- 16S rRNA amplicon analysis — DADA2, QIIME2, taxonomic classification, diversity metrics
+- NGS quality control — FastQC, MultiQC, read trimming workflows
+- Sequence analysis — BLAST, read alignment (Bowtie), de novo assembly
+- Reproducible research — R Markdown, structured analytical pipelines, version control
+
+**Command Line & Workflows**
+- Bash scripting for bioinformatics data processing and automation
+- Git & GitHub for version control and portfolio documentation
+
+**Wet Lab**
+- Bacterial culture (aseptic technique, probiotic strains)
+- Cell culture (commercially available cell lines)
+- Molecular biology (DNA/RNA extraction, PCR, gel electrophoresis)
 
 <h2>✨ What Sets Me Apart</h2>
 
@@ -24,68 +41,47 @@ My background allows me to move comfortably between:
 
 ---
 
-<h2>🧬 Bioinformatics & Data Projects</h2>
-
-<b>R & Statistical Computing</b>  
-- 📈 **Biological Data Analysis in R**  
-  - Data cleaning, exploratory analysis, and visualization using `ggplot2`, `dplyr`, and tidyverse workflows  
-- 🧪 **Introductory Gene Expression & Omics Analysis**  
-  - Working with public datasets, quality control concepts, and biological interpretation  
-- 📊 **Reproducible Reports**  
-  - Clear documentation using Markdown and structured analytical pipelines  
-
-<b>Command Line & Computational Biology</b>  
-- 🧬 **Sequence Analysis & Bioinformatics Tools**  
-  - BLAST searches, FASTQC quality checks, and read alignment concepts with Bowtie  
-- ⚙️ **Bash Workflows**  
-  - Command-line automation and data organisation for biological datasets  
+<h2>🧬 Research-Supported Projects</h2>
 
 <b>Research-Supported Projects</b>  
 - 🦟 **Mosquito Insecticide Resistance (Applied Research Support)**  
   - Data handling and lab-supported research contributing to PhD-level work  
 - 🧠 **Biochemistry & Metabolism Research**  
-  - Zebrafish-based investigations modelling human metabolic disorders  
-
-*(Each repository includes clear goals, methods, tools used, and outcomes — because good science deserves good documentation.)*
-
----
-
-<h2>🛠️ Tools & Technologies</h2>
-
-<b>Programming & Data</b>  
-- R (data analysis, visualization, tidyverse)  
-- Bash (command-line workflows & automation)  
-- HTML & CSS (proficient)  
-
-<b>Bioinformatics</b>  
-- BLAST  
-- FASTQC  
-- Bowtie  
-- ImageJ  
-
-<b>Workflow & Collaboration</b>  
-- Git & GitHub  
-- Notion, ClickUp  
-- Slack  
-- Microsoft Office & Google Suite  
+  - Zebrafish-based investigations modelling human metabolic disorders
+ - Dissertation (in progress) 
+ Microbiome-ART interactions using bioinformatic and experimental approaches
 
 ---
 
-<h2>🎓 Education</h2>
+## Selected repositories
 
-- **MSc Biotechnology** — University of Chester *(Commonwealth Shared Scholar)*  
-- **BSc Biotechnology (Minor: Journalism)** — University of the West Indies  
-  - Dean’s List Commendation  
-  - VM Foundation STEM Scholar  
+### Bioinformatics & Genomics
+- [`data-science-for-life-sci`](https://github.com/be-livtastic/data-science-for-life-sci) — Statistical analysis in R using real biological datasets: data cleaning, hypothesis testing, and visualisation with ggplot2
+- [`tidyverse_biodata`](https://github.com/be-livtastic/tidyverse_biodata) — Gene expression data wrangling and exploratory analysis using tidyverse workflows
+- [`simple-bioinformatics-pipeline`](https://github.com/be-livtastic/simple-bioinformatics-pipeline) — End-to-end bioinformatics pipeline practice in R
+- [`whole_genome_denovo`](https://github.com/be-livtastic/whole_genome_denovo) — De novo whole genome assembly workflow (shell-based)
 
+### Forked / Reference
+- [`genomics-analysis-parabricks-codonfm`](https://github.com/be-livtastic/genomics-analysis-parabricks-codonfm) — GPU-accelerated genomics analysis workflows (Clara Parabricks)
+- [`bioinfokit`](https://github.com/be-livtastic/bioinfokit) — Bioinformatics data analysis and visualisation toolkit (Python)
+
+## Education
+
+- **MSc Biotechnology** — University of Chester, UK *(in progress, 2026)*
+  - Commonwealth Shared Scholarship recipient
+  
+- **BSc Biotechnology, minor in Journalism** — University of the West Indies, Mona
+  - First Class Honours, Dean's List
+  - VM Foundation STEM Scholar
 ---
 
-<h2>🌱 Currently Learning</h2>
+<h2>🌱 Currently building towards</h2>
 
-- Applied bioinformatics pipelines  
-- Advanced R for biological data  
-- Omics data interpretation  
-- Computational approaches to global health challenges  
+
+- Full RNA-seq analysis pipelines (upstream processing + DESeq2/edgeR)
+- Strain-level resolution methods for amplicon data
+- Metagenomic analysis workflows
+- Integration of microbiome data with clinical outcomes
 
 ---
 
@@ -107,5 +103,5 @@ If you care about impact, clarity, and ethical innovation — let’s build some
 - 📧 Email: inbox@oliviawilliams.anonaddy.com  
 - 🌐 Portfolio / Linktree: https://linktr.ee/OliviaWilliams  
 
-<i>Curiosity fuels discovery. Communication turns it into impact.</i>  
+
 <i>Be Liv-Tastic 😊</i>
