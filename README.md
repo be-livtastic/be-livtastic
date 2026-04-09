@@ -17,6 +17,7 @@ My background allows me to move comfortably between:
 - [`tidyverse_biodata`](https://github.com/be-livtastic/tidyverse_biodata) — Gene expression data wrangling and exploratory analysis using tidyverse workflows
 - [`simple-bioinformatics-pipeline`](https://github.com/be-livtastic/simple-bioinformatics-pipeline) — End-to-end bioinformatics pipeline practice in R
 - [`whole_genome_denovo`](https://github.com/be-livtastic/whole_genome_denovo) — De novo whole genome assembly workflow (shell-based)
+- [`DADA2 analysis`](https://github.com/be-livtastic/microbiome-analysis-dada2) - 16S rRNA microbiome analysis pipeline using DADA2 in R
 
 ### Forked / Reference
 - [`genomics-analysis-parabricks-codonfm`](https://github.com/be-livtastic/genomics-analysis-parabricks-codonfm) — GPU-accelerated genomics analysis workflows (Clara Parabricks)
