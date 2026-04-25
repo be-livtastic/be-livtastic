@@ -2,7 +2,7 @@
 
 <b>Biotechnology Research | Bioinformatics & Data Science | Science Communicator</b>
 
-MSc Biotechnology candidate at the University of Chester (Commonwealth Shared Scholar), with a BSc in Biotechnology from the University of the West Indies. Building computational skills to bridge wet lab biology and data-driven analysis — with a focus on microbiome characterisation, amplicon sequencing pipelines, and health-relevant genomics.
+MSc Biotechnology candidate at the University of Chester (Commonwealth Shared Scholar), with a BSc in Biotechnology from the University of the West Indies. Building computational skills to bridge biology and data-driven analysis 
 
 My background allows me to move comfortably between:
 - 🧬 Biological research  
@@ -40,7 +40,7 @@ My background allows me to move comfortably between:
 **Wet Lab**
 - Bacterial culture (aseptic technique, probiotic strains)
 - Cell culture (commercially available cell lines)
-- Molecular biology (DNA/RNA extraction, PCR, gel electrophoresis)
+- Molecular biology (DNA/RNA extraction, PCR, gel electrophoresis, ELISA)
 
 <h2>✨ What Sets Me Apart</h2>
 
@@ -73,7 +73,7 @@ My background allows me to move comfortably between:
   - Commonwealth Shared Scholarship recipient
   
 - **BSc Biotechnology, minor in Journalism** — University of the West Indies, Mona
-  - First Class Honours, Dean's List
+  - Upper Second Class Honours, Dean's List
   - VM Foundation STEM Scholar
 ---
 
