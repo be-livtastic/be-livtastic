@@ -15,13 +15,12 @@ My background allows me to move comfortably between:
 ### Bioinformatics & Genomics
 - [`data-science-for-life-sci`](https://github.com/be-livtastic/data-science-for-life-sci) — Statistical analysis in R using real biological datasets: data cleaning, hypothesis testing, and visualisation with ggplot2
 - [`tidyverse_biodata`](https://github.com/be-livtastic/tidyverse_biodata) — Gene expression data wrangling and exploratory analysis using tidyverse workflows
-- [`simple-bioinformatics-pipeline`](https://github.com/be-livtastic/simple-bioinformatics-pipeline) — End-to-end bioinformatics pipeline practice in R
 - [`whole_genome_denovo`](https://github.com/be-livtastic/whole_genome_denovo) — De novo whole genome assembly workflow (shell-based)
 - [`DADA2 analysis`](https://github.com/be-livtastic/microbiome-analysis-dada2) - 16S rRNA microbiome analysis pipeline using DADA2 in R
+- [`Dengue Genomics`](https://github.com/be-livtastic/dengue-genomics) - Passion project genomic analysis of dengue fever
 
 ### Forked / Reference
-- [`genomics-analysis-parabricks-codonfm`](https://github.com/be-livtastic/genomics-analysis-parabricks-codonfm) — GPU-accelerated genomics analysis workflows (Clara Parabricks)
-- [`bioinfokit`](https://github.com/be-livtastic/bioinfokit) — Bioinformatics data analysis and visualisation toolkit (Python)
+- [`genomics-analysis-parabricks-codonfm`](https://github.com/be-livtastic/genomics-analysis-parabricks-codonfm) — GPU-accelerated genomics analysis workflows 
 
 ---
 ## Technical skills
@@ -39,7 +38,7 @@ My background allows me to move comfortably between:
 
 **Wet Lab**
 - Bacterial culture (aseptic technique, probiotic strains)
-- Cell culture (commercially available cell lines)
+- Plant Tissue Cell culture 
 - Molecular biology (DNA/RNA extraction, PCR, gel electrophoresis, ELISA)
 
 <h2>✨ What Sets Me Apart</h2>
