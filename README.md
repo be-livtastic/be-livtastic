@@ -10,31 +10,51 @@ My background allows me to move comfortably between:
 - 🗣️ Clear, people-centred communication  
 
 ---
-## Selected repositories
+## Selected Repositories
 
 ### Bioinformatics & Genomics
-- [`whole_genome_denovo`](https://github.com/be-livtastic/whole_genome_denovo) — De novo whole genome assembly workflow (shell-based)
-- [`DADA2 analysis`](https://github.com/be-livtastic/microbiome-analysis-dada2) - 16S rRNA microbiome analysis pipeline using DADA2 in R
-- [`Dengue Genomics`](https://github.com/be-livtastic/dengue-genomics) - Passion project genomic analysis of dengue fever
+
+* [`whole_genome_denovo`](https://github.com/be-livtastic/whole_genome_denovo) — De novo whole genome assembly workflow using shell scripting and genome assembly tools
+* [`microbiome-analysis-dada2`](https://github.com/be-livtastic/microbiome-analysis-dada2) — 16S rRNA microbiome analysis pipeline using DADA2 in R
+* [`dengue-genomics`](https://github.com/be-livtastic/dengue-genomics) — Exploratory genomic analysis project focused on dengue virus datasets
+* [`Analysing_and_interpreting_genomic_datasets`](https://github.com/be-livtastic/Analysing_and_interpreting_genomic_datasets) — Coursework and applied genomic data analysis workflows focused on interpretation of sequencing datasets
+* [`tidyverse_biodata`](https://github.com/be-livtastic/tidyverse_biodata) — Biological data wrangling, visualisation, and exploratory analysis using the tidyverse ecosystem in R
+
+### Data Analytics & Sustainability
+
+* [`solar-energy-adoption`](https://github.com/be-livtastic/solar-energy-adoption) — Data analytics project investigating solar energy adoption trends, renewable energy policies, and sustainability indicators across Caribbean countries
 
 ---
-## Technical skills
 
-**Bioinformatics & Data Analysis**
-- R (tidyverse, ggplot2, dplyr, plotly) — statistical analysis and visualisation of biological datasets
-- 16S rRNA amplicon analysis — DADA2, QIIME2, taxonomic classification, diversity metrics
-- NGS quality control — FastQC, MultiQC, read trimming workflows
-- Sequence analysis — BLAST, read alignment (Bowtie), de novo assembly
-- Reproducible research — R Markdown, structured analytical pipelines, version control
+## Technical Skills
 
-**Command Line & Workflows**
-- Bash scripting for bioinformatics data processing and automation
-- Git & GitHub for version control and portfolio documentation
+### Bioinformatics & Data Analysis
 
-**Wet Lab**
-- Bacterial culture (aseptic technique, probiotic strains)
-- Plant Tissue Cell culture 
-- Molecular biology (DNA/RNA extraction, PCR, gel electrophoresis, ELISA)
+* R (tidyverse, ggplot2, dplyr, plotly) — statistical analysis, data wrangling, and visualisation of biological and environmental datasets
+* Data analytics and exploratory data analysis (EDA) — trend analysis, comparative datasets, sustainability metrics, and policy-related data interpretation
+* 16S rRNA amplicon analysis — DADA2, QIIME2, taxonomic classification, alpha/beta diversity metrics
+* NGS quality control — FastQC, MultiQC, read trimming, sequencing workflow assessment
+* Sequence analysis — BLAST, Bowtie alignment workflows, de novo genome assembly
+* Reproducible research — R Markdown, structured analytical pipelines, Git-based workflows, documentation practices
+
+### Command Line & Workflow Management
+
+* Bash scripting for bioinformatics processing, workflow automation, and pipeline execution
+* Git & GitHub for version control, collaborative development, and technical portfolio management
+* Linux command-line environments for computational biology and data analysis workflows
+
+### Data Visualisation & Communication
+
+* Scientific storytelling through data visualisation and written interpretation
+* Dashboard-ready analytical thinking and presentation of technical findings to diverse audiences
+* Science communication integrating biotechnology, sustainability, and data-driven insights
+
+### Wet Lab Techniques
+
+* Bacterial culture and aseptic technique
+* Plant tissue culture and laboratory maintenance
+* Molecular biology techniques — DNA/RNA extraction, PCR, gel electrophoresis, ELISA
+
 
 <h2>✨ What Sets Me Apart</h2>
 
