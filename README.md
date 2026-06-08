@@ -15,7 +15,7 @@ My background allows me to move comfortably between:
 ### Bioinformatics & Genomics
 
 * [`whole_genome_denovo`](https://github.com/be-livtastic/whole_genome_denovo) — De novo whole genome assembly workflow using shell scripting and genome assembly tools
-* [`microbiome-analysis-dada2`](https://github.com/be-livtastic/microbiome-analysis-dada2) — 16S rRNA microbiome analysis pipeline using DADA2 in R
+* [`microbiome-analysis-dada2`](https://github.com/be-livtastic/microbiome-analysis-dada2) — 16S rRNA full amplicon microbiome analysis pipeline using DADA2 in R. Phylogenetic tree construction (NJ + ML) and visualisation plus Downstream diversity analysis: alpha (Shannon, Simpson, Hill numbers) and beta (PCoA, NMDS, PERMANOVA)
 * [`dengue-genomics`](https://github.com/be-livtastic/dengue-genomics) — Exploratory genomic analysis project focused on dengue virus datasets
 * [`Analysing_and_interpreting_genomic_datasets`](https://github.com/be-livtastic/Analysing_and_interpreting_genomic_datasets) — Coursework and applied genomic data analysis workflows focused on interpretation of sequencing datasets
 * [`tidyverse_biodata`](https://github.com/be-livtastic/tidyverse_biodata) — Biological data wrangling, visualisation, and exploratory analysis using the tidyverse ecosystem in R
