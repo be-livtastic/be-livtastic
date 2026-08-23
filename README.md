@@ -9,51 +9,64 @@ My background allows me to move comfortably between:
 - 📊 Data analysis & bioinformatics  
 - 🗣️ Clear, people-centred communication  
 
----
-## Selected Repositories
+I enjoy asking biological questions, working through the data behind them and then explaining what the results actually mean. My current work centres on microbial genomics, antimicrobial resistance and reproducible analysis. I am also interested in public health, sustainability, responsible AI and how science and technology can work within the realities of Caribbean and Global South communities.
 
-### Bioinformatics & Genomics
-
-* [`whole_genome_denovo`](https://github.com/be-livtastic/whole_genome_denovo) — De novo whole genome assembly workflow using shell scripting and genome assembly tools
-* [`microbiome-analysis-dada2`](https://github.com/be-livtastic/microbiome-analysis-dada2) — 16S rRNA full amplicon microbiome analysis pipeline using DADA2 in R. Phylogenetic tree construction (NJ + ML) and visualisation plus Downstream diversity analysis: alpha (Shannon, Simpson, Hill numbers) and beta (PCoA, NMDS, PERMANOVA)
-* [`dengue-genomics`](https://github.com/be-livtastic/dengue-genomics) — Exploratory genomic analysis project focused on dengue virus datasets
-* [`Analysing_and_interpreting_genomic_datasets`](https://github.com/be-livtastic/Analysing_and_interpreting_genomic_datasets) — Coursework and applied genomic data analysis workflows focused on interpretation of sequencing datasets
-* [`tidyverse_biodata`](https://github.com/be-livtastic/tidyverse_biodata) — Biological data wrangling, visualisation, and exploratory analysis using the tidyverse ecosystem in R
-
-### Data Analytics & Sustainability
-
-* [`solar-energy-adoption`](https://github.com/be-livtastic/solar-energy-adoption) — Data analytics project investigating solar energy adoption trends, renewable energy policies, and sustainability indicators across Caribbean countries
+Right now, I am building deeper skills in **R, Bash, Linux, Python and bioinformatics workflows**. I do not believe good analysis ends when the code runs. It should be reproducible, honest about its limits and clear enough for someone else to follow.
 
 ---
 
-## Technical Skills
+## Featured work
 
-### Bioinformatics & Data Analysis
+### 🦠 [16S rRNA microbiome analysis with DADA2](https://github.com/be-livtastic/microbiome-analysis-dada2)
 
-* R (tidyverse, ggplot2, dplyr, plotly) — statistical analysis, data wrangling, and visualisation of biological and environmental datasets
-* Data analytics and exploratory data analysis (EDA) — trend analysis, comparative datasets, sustainability metrics, and policy-related data interpretation
-* 16S rRNA amplicon analysis — DADA2, QIIME2, taxonomic classification, alpha/beta diversity metrics
-* NGS quality control — FastQC, MultiQC, read trimming, sequencing workflow assessment
-* Sequence analysis — BLAST, Bowtie alignment workflows, de novo genome assembly
-* Reproducible research — R Markdown, structured analytical pipelines, Git-based workflows, documentation practices
+ The workflow moves from read processing and ASV inference to taxonomic analysis, phylogenetic reconstruction and ecological interpretation.
 
-### Command Line & Workflow Management
+- Recovered 896 amplicon sequence variants across 72 samples after troubleshooting the original workflow
+- Compared alpha and beta diversity using Shannon, Simpson, Hill numbers, PCoA, NMDS and PERMANOVA
+- Built neighbour-joining and maximum-likelihood phylogenetic trees
+- Kept the interpretation careful by separating what the data supported from what it could not yet establish
 
-* Bash scripting for bioinformatics processing, workflow automation, and pipeline execution
-* Git & GitHub for version control, collaborative development, and technical portfolio management
-* Linux command-line environments for computational biology and data analysis workflows
+### 🧬 Comparative genomics of *Enterococcus faecalis* *(MSc dissertation, in progress)*
 
-### Data Visualisation & Communication
+The workflow uses genome annotation, AMR and virulence profiling, multilocus and core-genome comparisons, phylogenetics, R, Bash and Git-based audit trails. The repository is private while the dissertation is in progress, but I plan to share a carefully documented version when appropriate.
 
-* Scientific storytelling through data visualisation and written interpretation
-* Dashboard-ready analytical thinking and presentation of technical findings to diverse audiences
-* Science communication integrating biotechnology, sustainability, and data-driven insights
+### 🧫 [De novo whole-genome assembly](https://github.com/be-livtastic/whole_genome_denovo)
+
+A shell-based workflow for assembling and assessing a bacterial genome from sequencing reads. This project strengthened my command-line skills and my understanding of quality control, assembly decisions and reproducible file organisation.
+
+---
+
+## More projects
+
+- [Analysing and interpreting genomic datasets](https://github.com/be-livtastic/Analysing_and_interpreting_genomic_datasets) — applied genomic analysis work focused on reading sequencing outputs critically, not simply producing them
+- [Biological data analysis with the tidyverse](https://github.com/be-livtastic/tidyverse_biodata) — data cleaning, exploration and visualisation in R using biological datasets
+- [Dengue genomics](https://github.com/be-livtastic/dengue-genomics) — exploratory work with dengue virus genomic data and questions relevant to public health
+- [Solar-energy adoption in the Caribbean](https://github.com/be-livtastic/solar-energy-adoption) — a data project examining renewable-energy uptake, policy and sustainability across Caribbean countries
+
+---
 
 ### Wet Lab Techniques
+My experience began at the lab bench and continues to shape how I approach computational work.
 
+- Supported research on mosquito insecticide resistance, including laboratory work and data handling
+- Contributed to zebrafish research on metabolic disorders and to a peer-reviewed publication
+- Worked with bacterial culture, plant tissue culture, DNA/RNA extraction, PCR, gel electrophoresis and ELISA
+  
 * Bacterial culture and aseptic technique
 * Plant tissue culture and laboratory maintenance
 * Molecular biology techniques — DNA/RNA extraction, PCR, gel electrophoresis, ELISA
+
+---
+
+## Tools I work with
+
+| Area | Tools and methods |
+| --- | --- |
+| Bioinformatics | DADA2, QIIME 2, BLAST, Bowtie, FastQC, MultiQC, cutadapt, genome assembly, phylogenetics |
+| Data analysis | R, tidyverse, ggplot2, dplyr, Plotly, exploratory analysis and statistical interpretation |
+| Computing | Bash, Linux, Git, GitHub and structured analytical pipelines |
+| Currently developing | Python, SQL and broader data-science workflows |
+| Communication | Scientific writing, data storytelling, research translation and accessible presentation |
 
 
 <h2>✨ What Sets Me Apart</h2>
@@ -66,18 +79,6 @@ My background allows me to move comfortably between:
 
 - **Strategic Execution**  
   I thrive in dynamic environments where adaptability meets organisation — whether coordinating projects, analysing data, or supporting cross-functional teams.
-
----
-
-<h2>🧬 Research-Supported Projects</h2>
-
-<b>Research-Supported Projects</b>  
-- 🦟 **Mosquito Insecticide Resistance (Applied Research Support)**  
-  - Data handling and lab-supported research contributing to PhD-level work  
-- 🧠 **Biochemistry & Metabolism Research**  
-  - Zebrafish-based investigations modelling human metabolic disorders
- - Dissertation (in progress) 
- Microbiome-ART interactions using bioinformatic and experimental approaches
 
 ---
 
