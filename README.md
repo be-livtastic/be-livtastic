@@ -7,7 +7,16 @@ MSc Biotechnology candidate at the University of Chester (Commonwealth Shared Sc
 My background allows me to move comfortably between:
 - 🧬 Biological research  
 - 📊 Data analysis & bioinformatics  
-- 🗣️ Clear, people-centred communication  
+- 🗣️ Clear, people-centred communication 
+
+---
+
+<h2>📫 Let’s Connect</h2>
+
+- 💼 LinkedIn: <a href="http://linkedin.com/in/olivia-williams-online">Olivia Williams</a>  
+- 📧 Email: inbox@oliviawilliams.anonaddy.com  
+- 🌐 Portfolio / Linktree: https://linktr.ee/OliviaWilliams  
+ 
 
 I enjoy asking biological questions, working through the data behind them and then explaining what the results actually mean. My current work centres on microbial genomics, antimicrobial resistance and reproducible analysis. I am also interested in public health, sustainability, responsible AI and how science and technology can work within the realities of Caribbean and Global South communities.
 
@@ -103,13 +112,6 @@ I’m open to:
 
 If you care about impact, clarity, and ethical innovation — let’s build something meaningful.
 
----
-
-<h2>📫 Let’s Connect</h2>
-
-- 💼 LinkedIn: <a href="http://linkedin.com/in/olivia-williams-online">Olivia Williams</a>  
-- 📧 Email: inbox@oliviawilliams.anonaddy.com  
-- 🌐 Portfolio / Linktree: https://linktr.ee/OliviaWilliams  
 
 
 <i>Be Liv-Tastic 😊</i>
